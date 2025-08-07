@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">meu nome é Romário. sou um  estudante de ciência de dados que pretende em breve estar inserido no mercado de trabalho</p>
+<h1 align="left">meu nome é Romário. sou um  estudante de ciência de dados que pretende em breve estar inserido no mercado de trabalho</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 atualmente  estudo ciência de dados<br>🎯 me destacar nessa área</p>
+<p align="left">📚 atualmente  estudo ciência de dados<br>🎯 gerar valor por onde passo</p>
 
 ###
 
