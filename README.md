@@ -1,4 +1,4 @@
-<h1 align="left">bem vindo ao meu perfil👋</h1>
+<h1 align="center">bem vindo ao meu perfil👋</h1>
 
 ###
 
@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">📚 atualmente  estudo ciência de dados<br>🎯 gerar valor por onde passo</p>
+<p align="center">📚 atualmente  estudo ciência de dados<br>🎯 gerar valor por onde passo</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
