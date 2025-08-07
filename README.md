@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">meu nome é Romário. sou um  estudante de ciência de dados que pretende em breve estar inserido no mercado de trabalho</h1>
+<p align="center">meu nome é Romário. sou um  estudante de ciência de dados que pretende em breve estar inserido no mercado de trabalho</p>
 
 ###
 
